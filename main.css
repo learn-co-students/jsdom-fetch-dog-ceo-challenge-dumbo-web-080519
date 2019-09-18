@@ -1,0 +1,7 @@
+ul#dog-breeds > li.blue {
+  color: blue;
+}
+
+ul#dog-breeds > li.hidden {
+  display: none;
+}
